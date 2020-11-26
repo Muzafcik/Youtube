@@ -1,0 +1,158 @@
+.fa-bars{
+    margin-left:10px ;
+}
+
+.fa-youtube {
+    margin-left:15px ;
+    display: inline;
+    /* font-size: 20px; */
+    color: red;
+    /* margin-top: 5px; */
+}
+.iphone {
+    padding: 0;
+}
+
+.center1{
+    float: left;
+    width: 700px;
+}
+
+.centr2{
+    float: right;
+    width: 300px;
+}
+
+.clr{
+    clear: both;
+}
+
+.iphone1,
+.iphone2,
+.iphone3,
+    
+ 
+
+.iphone2 div {
+    display: inline-block;
+}
+
+.iphone2 {
+    margin-left: 300px;
+}
+.iphone2 div {
+    width: 300px;
+    padding: 0;
+    margin: 0;
+}
+
+input {
+    width: 260px;
+}
+
+.iphone3 {
+    margin-left: 200px;
+    padding-left:100px ;
+   
+    
+
+}
+header {
+    margin-bottom: 20px;
+}
+
+.fa-search {
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+
+.centr {
+    background-color: grey;
+    width: 300px;
+}
+
+.centr2{
+    position: relative;
+}
+
+/* .ved2{
+    position: absolute;
+    left: 0px;
+   float: right;
+} */
+
+.rasm{
+    width: 180px;
+    height: 100px;
+    
+}
+
+.rasm_ucun{
+    float: left;
+    width: 180px;
+}
+
+.text{
+    float: right;
+    width: 100px;
+    margin-top: 10px;
+
+    
+
+}
+
+.small{
+    font-size: 10px;
+}
+
+.fas, .far{
+    color: black;
+}
+
+.radius{
+    border-radius: 50%;
+}
+li{
+    display: inline;
+}
+
+
+
+
+
+    
+
+
+/* .iphone2{
+    position: absolute;
+    top: 20px;
+    right: 500px;
+    
+}
+
+.iphone2 input{
+    width: 600px;
+    height: 20px;
+}
+.fa-keyboard{
+    position: absolute;
+    right: 30px;
+    
+}
+.fa-search{
+    position: absolute;
+    right: 10px;
+    
+}
+
+
+     */
+ * {
+     border: 1px solid red;
+ }
+ 
+   
+ 
+
+ 
