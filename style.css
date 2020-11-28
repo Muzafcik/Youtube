@@ -64,9 +64,19 @@ header {
 .fa-search {
     padding-left: 15px;
     padding-right: 15px;
+    /* position: relative; */
+    
+    
     
 }
+.logo1{
+    position: relative;
+    right: 38px;
+}
 
+   
+  
+}
 .centr {
     background-color: grey;
     width: 300px;
@@ -108,6 +118,7 @@ header {
 
 .fas, .far{
     color: black;
+    
 }
 
 .radius{
@@ -115,7 +126,65 @@ header {
 }
 li{
     display: inline;
+    
 }
+
+.fa-vedio,
+.fa-bars,
+.fa-bell,
+.fa-user-cicle{
+    margin: 7px;
+}
+
+.fa-keyboard{
+    position: relative;
+    right: 30px;
+    top: 2px;
+    
+    
+}
+
+.n1{
+    position: relative;
+   right: 5px;
+    color: grey
+}
+
+.n2{
+    position: relative;
+    left: 140px;
+    color: grey;
+}
+
+.fa-info-circle{
+    color: grey;
+}
+.fa-toggle-on{
+    color: grey;
+}
+
+.sub{
+    background-color: red;
+    font-size: large;
+    margin-left: 500px;
+    border: 1px solid red;
+    position: relative;
+    bottom: 55px;
+    color: white;
+    
+}
+.icon12{
+    margin: 10px;
+    background-color: white;
+    border: none;
+}
+
+
+
+
+
+    
+    
 
 
 
@@ -149,7 +218,7 @@ li{
 
      */
  * {
-     border: 1px solid red;
+     /* border: 1px solid red; */
  }
  
    
